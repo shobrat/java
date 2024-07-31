@@ -31,7 +31,7 @@ public class Laptop {
             return color;
         }
 
-        // Метод для удобного вывода информации о ноутбуке
+        // Метод вывода информации о ноутбуке
         @Override
         public String toString() {
             StringBuilder sb = new StringBuilder();
